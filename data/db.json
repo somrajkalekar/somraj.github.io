@@ -1,0 +1,68 @@
+{
+    "products":[
+        {
+        "id":1,
+        "name":"Real me",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, numquam ipsam ",
+        "price": 9000,
+        "Image":"https://m.media-amazon.com/images/I/71dEY4Neo3L._AC_UL480_FMwebp_QL65_.jpg",
+        "category": "M-mobile",
+        "rating": 4.8
+      },
+      {
+        "id":2,
+        "name":"OnePlus",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, numquam ipsam? ",
+        "price": 24500,
+        "Image":"https://m.media-amazon.com/images/I/6175SlKKECL._AC_UL480_QL65_.jpg",
+        "category": "M-mobile",
+        "rating": 4.5
+      },
+      {
+        "id":3,
+        "name":"i phone",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, numquam ipsam? ",
+        "price": 51499,
+        "Image":"https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UL480_QL65_.jpg",
+        "category": "M-mobile",
+        "rating": 4
+      },
+      {
+        "id":4,
+        "name":"Honor",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, numquam ipsam? ",
+        "price": 30999,
+        "Image":"https://m.media-amazon.com/images/I/81uNWyk3PaL._AC_UL480_QL65_.jpg",
+        "category": "M-mobile",
+        "rating": 3.7
+      },
+      {
+        "id":5,
+        "name":"Readme",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, numquam ipsam? ",
+        "price": 39045,
+        "Image":"https://m.media-amazon.com/images/I/71NnrsYP63L._AC_UL480_QL65_.jpg",
+        "category": "M-mobile",
+        "rating": 4.4
+      },
+      {
+        "id":6,
+        "name":"Washing machine",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, numquam ipsam? ",
+        "price": 45000,
+        "Image":"https://m.media-amazon.com/images/I/61Mo40iMHwL._SX679_.jpg",
+        "category": "W-washing",
+        "rating": 3
+      },
+      {
+        "id":7,
+        "name":"Samsung Tv",
+        "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, numquam ipsam? ",
+        "price": 50000,
+        "Image":"https://m.media-amazon.com/images/I/71S8iUPW9bL._AC_UL480_QL65_.jpg",
+        "category": "T-tv",
+        "rating": 3.8
+      }
+      
+    ]
+}

@@ -1,0 +1,10 @@
+<div [style.width.px]="starWidth" class="crop">
+    <div style="width: 80px;">
+        @for ( r of ratings; track $index) {
+        <i
+         class="bi bi-star-fill" (click)="changeRating(r+1)"></i>
+        }
+       
+    </div>
+</div>
+
